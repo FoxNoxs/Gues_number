@@ -12,6 +12,6 @@ while True:
     elif a > b:
         print("не угодал число меньше" , b)
 
-    elif a < b:
+    else:
         print("не угодал число больше" , b)
 
